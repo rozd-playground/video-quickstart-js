@@ -72,3 +72,8 @@ examples/reconnection/public/helpers.js
 examples/screenshare/public/helpers.js
 examples/localmediacontrols/public/helpers.js
 examples/remotereconnection/public/helpers.js
+
+# The generated public files
+public/index.js
+public/examples/*/**
+public/quickstart/index.js
